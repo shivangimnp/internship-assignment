@@ -1,0 +1,16 @@
+.abc{
+    display: flex;
+    flex-direction: column;
+}
+
+.abc .inp1 {
+    margin-bottom: 15px;
+}
+
+.abc .inp2 {
+    margin-bottom: 15px;
+}
+
+.abc .inp3 {
+    margin-bottom: 15px;
+}
